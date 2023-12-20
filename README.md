@@ -40,7 +40,7 @@ Insights generated:
 1. Booking Cancelations are more frequent in city hotels as compared to resort hotels.
 2. Reservations canceled were highest in January while August had most bookings not canceled.
 3. Portugal tops the list of countries with the highest number of canceled reservations at 70.07%
-- IDE : Jupyter Notebook
+- Tool : Jupyter Notebook
 
 ### PROJECT 4: Sales Insights
 
